@@ -6,7 +6,7 @@ if(num < 100)
 }
 if(num >= 100)
 {
-    while(num > 1000)
+    while(num >= 1000)
     {
         num = num / 10;
     }
